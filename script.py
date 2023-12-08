@@ -6,3 +6,4 @@
 # fix 6108
 # fix 7840
 # optimize 8564
+# optimize 6970
