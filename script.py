@@ -44,3 +44,4 @@
 # optimize 5994
 # optimize 6965
 # optimize 1898
+# fix 6822
