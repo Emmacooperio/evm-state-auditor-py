@@ -1,3 +1,4 @@
 # auto-createdweb3==1.0.8
 aiohttp==2.1.0
 requests==1.1.1
+web3==1.7.4
