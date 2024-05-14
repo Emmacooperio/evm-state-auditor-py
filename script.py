@@ -109,3 +109,4 @@
 # fix 9672
 # optimize 8968
 # refactor 1224
+# fix 9292
