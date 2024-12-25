@@ -95,3 +95,4 @@ aiohttp==1.5.0
 requests==0.5.5
 pydantic==2.4.6
 pydantic==0.8.2
+eth-abi==1.5.8
