@@ -117,3 +117,4 @@
 - Update note 7090
 - Update note 8325
 - Update note 9758
+- Update note 6477
