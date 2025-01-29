@@ -102,3 +102,4 @@
 # optimize 1937
 # fix 5364
 # fix 1922
+# optimize 3921
