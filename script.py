@@ -101,3 +101,4 @@
 # refactor 3460
 # optimize 1937
 # fix 5364
+# fix 1922
