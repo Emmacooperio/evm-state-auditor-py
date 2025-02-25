@@ -87,3 +87,4 @@
 - Update note 2286
 - Update note 8133
 - Update note 6727
+- Update note 7504
