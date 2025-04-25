@@ -73,3 +73,4 @@
 # optimize 8151
 # optimize 1460
 # fix 4637
+# refactor 8606
